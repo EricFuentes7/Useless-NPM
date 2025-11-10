@@ -1,0 +1,17 @@
+{
+  "name": "is-array-maybe",
+  "version": "1.0.1",
+  "description": "Returns 'maybe' regardless of whether it is an array.",
+  "main": "index.js",
+  "keywords": [
+    "array",
+    "maybe",
+    "useless",
+    "fun"
+  ],
+  "author": "Eric Fuentes",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
