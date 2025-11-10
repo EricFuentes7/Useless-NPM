@@ -13,10 +13,14 @@ Current packages:
 
 - **[is-array-maybe](./is-array-maybe/)**: Attempts to indicate whether a value is an array, but always returns `"maybe"`.
 
+- **[lenght-to-length](./lenght-to-length/)**: Fix the common typo 'lenght' for strings and arrays in JavaScript.
+
+
 ### Installations
 
 ```bash
 npm install is-array-maybe
+npm install lenght-to-length
 ```
 
 ---
