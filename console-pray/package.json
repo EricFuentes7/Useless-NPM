@@ -1,0 +1,22 @@
+{
+  "name": "console-pray",
+  "version": "1.0.0",
+  "description": "Adds a console.pray() method that prints 'please work 🙏'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "pray",
+    "debug",
+    "fun",
+    "useless",
+    "npm",
+    "wish",
+    "faith",
+    "godPleaseWork"
+  ],
+  "author": "Eric Fuentes",
+  "license": "MIT"
+}

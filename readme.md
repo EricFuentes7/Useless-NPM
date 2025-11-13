@@ -15,12 +15,14 @@ Current packages:
 
 - **[lenght-to-length](./lenght-to-length/)**: Fix the common typo 'lenght' for strings and arrays in JavaScript.
 
+- **[console-pray](./console-pray/)**: It asks for your code to work… please. 🙏
 
 ### Installations
 
 ```bash
 npm install is-array-maybe
 npm install lenght-to-length
+npm install console-pray
 ```
 
 ---
